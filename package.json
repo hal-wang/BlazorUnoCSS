@@ -9,9 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "dependencies": {
-    "@unocss/postcss": "^0.58.6",
+    "@unocss/postcss": "^0.59.4",
     "postcss-cli": "^11.0.0",
-    "unocss": "^0.58.6"
+    "unocss": "^0.59.4"
   }
 }
